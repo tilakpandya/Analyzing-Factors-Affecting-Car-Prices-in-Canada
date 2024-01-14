@@ -34,3 +34,6 @@ Summarize the findings and insights, providing valuable information for the auto
 
 By following these steps, systematic planning and execution of the project could be implemented, ensuring a 
 thorough analysis of the correlations and dependencies within the car pricing dataset.
+
+## Tools and Technologies:
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="180" height="80"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="150" height="100"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="200" height="80"> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress%2Cformat&fit=max" width="150" height="75"> <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" width="150" height="100">
